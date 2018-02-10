@@ -1,16 +1,16 @@
 {
-    "name": "svetel/easy-excel-writer",
+    "name": "yarovskiy/easy-excel-writer",
     "description": "Write Excel files easy and fast.  Very fast generation of Excel files thanks to small functionality.",
     "license": "MIT",
-    "homepage": "https://github.com/svetel/easy-excel-writer-library.git",
+    "homepage": "https://github.com/yarovskiy/easy-excel-writer-library.git",
     "authors": [
         {
-            "name": "Vladimir Olejnikov",
-            "email": "olejnikov.vladimir@gmail.com"
+            "name": "Alexandr Yarovsliy",
+            "email": "yarovskiy89@gmail.com"
         }
     ],
     "support": {
-        "email": "olejnikov.vladimir@gmail.com"
+        "email": "yarovskiy89@gmail.com"
     },
     "require": {
     },
